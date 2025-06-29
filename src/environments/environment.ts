@@ -1,3 +1,3 @@
 export const environment = {
-    apiBaseUrl: 'https://localhost:7280'
+    apiBaseUrl: 'https://codepulseapi20250629183856-akbrcvbhgtdsg9ek.eastus-01.azurewebsites.net'
 };
